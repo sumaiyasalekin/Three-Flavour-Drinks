@@ -14,6 +14,15 @@ An eye-catching, high-impact marketing landing page for a fruit beverage brand. 
 * **Design Tool:** Figma / Illustrator (3D Mockups)
 * **Interactive Tech Stack:** Vue.js / React with GSAP / Three.js (for animated transitions)
 
+## 🎨 Figma Design
+
+A vibrant and dynamic **fruit beverage landing page** designed in Figma, focusing on visual appeal, product presentation, and a fresh, engaging user experience.
+
+🔗 **[View Figma Design](https://www.figma.com/design/FmqpVzuZyqRhwCtr4UBvvX/Social-Media-Icons---Logos--Community-?t=pjWa7VuonPFMDSVP-1)**
+
+> Explore the complete landing page design and visual components in Figma.
+
+
 ##  Color Palette
 
 | Flavor | Primary Color | Hex Code |
